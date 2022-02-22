@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Amorous gallant</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25308</idno>
+            <idno type="STC">Wing A3021</idno>
+            <idno type="STC">ESTC R30815</idno>
+            <idno type="EEBO-CITATION">11505040</idno>
+            <idno type="OCLC">ocm 11505040</idno>
+            <idno type="VID">47856</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25308)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47856)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1472:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Amorous gallant</title>
+               </titleStmt>
+               <extent>1 broadside : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles, T. Vere and I. Wright,</publisher>
+                  <pubPlace>[S.l.] :</pubPlace>
+                  <date>[1655?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To a pleasant new tune called Jenny's delight."</note>
+                  <note>Date suggested by Wing.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:47856:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 10 -->
+            <head>The Amorous Gallant.</head>
+            <argument>
+               <l>Who had a Miſtris lovely, fair and kind,</l>
+               <l>She gave him all things to content his mind;</l>
+               <l>But he unkind, when he had done his pleaſure,</l>
+               <l>Would have forſaken this beloved treaſure:</l>
+               <l>But by her charms, to Wife ſhe made him take her;</l>
+               <l>And now he ſwears he never will forſake her.</l>
+            </argument>
+            <opener>To a pleaſant new Tune, called, <hi>Jenny's delight.</hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>HOw bouny and brisk, how pleaſant and ſweet,</l>
+               <l>were <hi>Ienny</hi> and I when my paſſion was ſtrong</l>
+               <l>So eagerly each others flames we did meet,</l>
+               <l>that a Minutes delay did appear to be long,</l>
+               <l>The bows that I made her, ſhe ſeal'd with a kiſs,</l>
+               <l>Till my ſoul I had loſt in a rapture of bliſs.</l>
+            </lg>
+            <lg>
+               <l>I vow'd and I thought I ſhould ever have lov'd,</l>
+               <l>where beauty and kindneſs together I found,</l>
+               <l>So ſweetly ſhe look'd, and ſo ſweetly ſhe mov'd,</l>
+               <l>that I fancied new ſtrength with my joys to abound</l>
+               <l>For the pleaſures I gave ſhe did doubly requite,</l>
+               <l>By finding out ever new ways to delight.</l>
+            </lg>
+            <lg>
+               <l>But when that enjoyment had put out my fire,</l>
+               <l>my ſtrength was decay'd and my paſſion was done,</l>
+               <l>So pall'd was my fancy, and ſo tame my deſſre,</l>
+               <l>that I from the Nimph very fain would have gone.</l>
+               <l>Oh <hi>Ienny</hi> ſaid I you have lov'd me in vain,</l>
+               <l>For beauty enjoyed turns love to diſdain,</l>
+            </lg>
+            <lg>
+               <l>But when ſhe perceiv'd that my flames were expir'd,</l>
+               <l>and I for a while was quite dead with delight,</l>
+               <l>She never left kiſſing till my heart ſhe had fir'd,</l>
+               <l>while I had not the power to depart from her ſight,</l>
+               <l>My Deareſt quoth ſhe you quickly are cloi'd,</l>
+               <l>So ſoon for to leave what you ſweetly enjoy'd.</l>
+            </lg>
+            <lg>
+               <l>Such pretty kind words and her languiſhing eyes,</l>
+               <l>did tempt me again to encourage my flame,</l>
+               <l>Thoſe charming imbraces my thoughts did ſurprize,</l>
+               <l>they caus'd me with panting to Die in the ſame,</l>
+               <l>But the Death was ſo ſweet, and ſo eaſie my pain,</l>
+               <l>Sweet <hi>Ienny</hi> ſaid I let me Die once again.</l>
+            </lg>
+            <lg>
+               <l>As thus we ſat dallying on the Bank-ſide,</l>
+               <l>our loves overwhelm'd with a paſſionate joy,</l>
+               <l>Vnfortunate we by a friend were eſpi'd,</l>
+               <l>his preſence with fear did our bleſſings deſtroy;</l>
+               <l>Oh <hi>Jenny</hi> ſaid I we are undone by this Man,</l>
+               <l>Let's flie from this danger out of ſight if we can.</l>
+            </lg>
+            <lg>
+               <l>The pretty ſweet Nimph with fear all amaz'd,</l>
+               <l>ſtood affrighted, yet her ſences ſhe ſoon did regain,</l>
+               <l>But ſmitten with love on ſweet <hi>Jenny</hi> he gaz'd,</l>
+               <l>and beg'd on his knees that ſhe there would remain,</l>
+               <l>Oh let not my preſence diſturb you for I.</l>
+               <l>If that you forſake me with love I ſhall Die.</l>
+            </lg>
+            <lg>
+               <l>Oh let me but kiſs that white hand and I'le ſwear,</l>
+               <l>by the powers above that i'le never diſcover,</l>
+               <l>Let not your beſt friend your preſence forbear,</l>
+               <l>for I like himſelf am a deſperate Lover:</l>
+               <l>But give him your hand and let's frolick all three,</l>
+               <l>My humour with his and with yours doth agree.</l>
+            </lg>
+            <lg>
+               <l>His vow being made then <hi>Ienny</hi> reply d,</l>
+               <l>if that you our ſhame and my bluſhes conceal</l>
+               <l>For I have been faulty it can't be deny'd,</l>
+               <l>but pray don't our ſecret folly reveal;</l>
+               <l>Then let us be merry ſince the danger is paſt,</l>
+               <l>I am not the firſt nor I ſhall not be the laſt.</l>
+            </lg>
+            <lg>
+               <l>Then merrily, merrily, let's take our way,</l>
+               <l>where <hi>Hymen</hi> ſhall tye us in Marri<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge ſecure,</l>
+               <l>And that we be fruitly he'l heartily pray,</l>
+               <l>my conſtancy to thee ſhall ever endure.</l>
+               <l>And though I have trangreſs d before I was thy wife;</l>
+               <l>Yet i'le be thy ſweet <hi>Jenny</hi> all days of my life.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for F. Coles, T. Vere, and I. VVright.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
